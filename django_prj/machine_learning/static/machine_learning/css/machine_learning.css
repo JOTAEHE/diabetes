@@ -1,0 +1,8 @@
+body, html{ height:100% }
+
+.bgimg {
+background: url('/static/machine_learning/images/hospital.jpg') no-repeat center center fixed;
+min-height:100%;
+background-position: center;
+background-size : cover;
+}
